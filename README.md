@@ -38,7 +38,7 @@ Enter task number to complete: 1
 Task marked as completed!
 
 ## Contributors
-- Student 1: daguirre (Task management)
+- Student 1: dcaguirre (Task management)
 - Student 2: krhilario (Task tracking and completion)
 - Student 3: pzremojo (search and input validation)
 
