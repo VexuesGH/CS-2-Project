@@ -1,23 +1,35 @@
 # CHANGELOG
 
-This is a list of all the updates made to our todo list program.
+This is a list of all the updates made to our budgeting program.
 
 ---
-
-## Version v1.2.0
-- added search feature for finding specific tasks.
-- Improved how tasks are displayed.
-
+## September 30 2026
+- Revision of CHANGELOG realistically to reflect the date of completion and when there is no app developed.
+- Revision of README file to match the project proposal.
+- Revision of Flowchart so its less cluttered.
 ---
 
-## Version v1.1.0
-- added option to mark a task as completed.
-- added option to delete tasks.
+## September 20 2026
+- Reuploaded Project Proposal.
 ---
 
-## Version v1.0.1
-- added input validation for the task entries that are empty.
-- better menu options and navigation.
+## September 20 2026
+- Uploaded Project Proposal to repository.
+---
+
+## August 28 2026
+- Added information to the README file.
+  - project title
+  - description
+  - features
+  - how to run
+  - run examples
+  - contributers
+---
+
+## August 28 2026
+- Added README file.
+- Added CHANGELOG.
 
 ---
 
