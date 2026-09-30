@@ -1,15 +1,14 @@
 # POCKETBUDGET
 
 ## Project Description
-This is a simple python code that helps the user organize and manage their tasks. It was created to provide a simple way for users to manage their tasks and stay productive.
+This is a simple Python code that helps students manage and track their weekly allowance. It was created to provide an easy way for students to record their expenses, check their remaining balance, and keep track of their spending.
 ## Features
-- Add new tasks
-- View all tasks
-- Mark tasks as completed
-- Delete Tasks
-- Search for tasks
-- Prevent empty task entries
-- Display whether a task is completed or unfinished
+- Record weekly allowance
+- Add new expenses
+- View all expenses
+- Check remaining balance
+- Track lunch and school-related expenses
+- Save information to a local file
 - Simple menu-based interface
 
 ## How to Run the Program
