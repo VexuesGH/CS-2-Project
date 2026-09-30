@@ -1,4 +1,4 @@
-# Project Title To-do List System
+# POCKETBUDGET
 
 ## Project Description
 This is a simple python code that helps the user organize and manage their tasks. It was created to provide a simple way for users to manage their tasks and stay productive.
