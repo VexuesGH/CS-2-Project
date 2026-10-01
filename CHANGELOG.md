@@ -3,6 +3,10 @@
 This is a list of all the updates made to our budgeting program.
 
 ---
+## October 2 2026
+- Completed revision of the README and the Flowchart.
+---
+
 ## October 1 2026
 - Continued revision of the README and the Flowchart.
 ---
