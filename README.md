@@ -64,7 +64,7 @@ Choose an option: 5
 Thank you for using PocketBudget!
 
 ## Contributors
-- Student 1: dcaguirre (Readme)
-- Student 2: krhilario (Project proposal)
-- Student 3: pzremojo (changelog, readme)
+- Student 1: dcaguirre (README)
+- Student 2: krhilario (Project Proposal)
+- Student 3: pzremojo (CHANGELOG, README)
 
