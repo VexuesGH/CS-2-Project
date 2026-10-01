@@ -13,31 +13,58 @@ This is a simple Python code that helps students manage and track their weekly a
 
 ## How to Run the Program
 1. Make sure you have Python installed.
-2. Download the file `todo_list.py`.
+2. Download the file `pocketbudget.py`.
 3. Open a terminal or command prompt.
 4. Run the program by pressing F5 or clicking 'Run' 
-5. Follow the on-screen instructions to manage tasks.
+5. Follow the on-screen instructions to manage allowance.
 ## Example Output
+=== PocketBudget ===
+
+1. Add Weekly Allowance
+2. Add Expense
+3. Check Balance
+4. View Budget
+5. Exit
+
 Choose an option: 1
 
-Enter task: Finish Physics homework
+Enter your weekly allowance: 500
 
-Task added successfully!
+Allowance added successfully!
 
 Choose an option: 2
 
-===== YOUR TASKS =====
-1. [ ] Finish Physics homework
-2. [ ] Study Biology
+Enter purchase item: Lunch
+Enter item cost: 80
+
+Expense recorded successfully!
+
+Choose an option: 2
+
+Enter purchase item: School Supplies
+Enter item cost: 50
+
+Expense recorded successfully!
 
 Choose an option: 3
 
-Enter task number to complete: 1
+Remaining Balance: 370
 
-Task marked as completed!
+Choose an option: 4
+
+=== Budget Summary ===
+Weekly Allowance: 500
+Lunch: 80
+School Supplies: 50
+Total Spent: 130
+Remaining Balance: 370
+
+Choose an option: 5
+
+Thank you for using PocketBudget!
 
 ## Contributors
-- Student 1: dcaguirre (Task management)
-- Student 2: krhilario (Task tracking and completion)
-- Student 3: pzremojo (search and input validation)
+- Student 1: dcaguirre (Readme)
+- Student 2: krhilario (Project proposal)
+- Student 3: pzremojo (changelog, readme)
 
