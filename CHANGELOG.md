@@ -3,6 +3,10 @@
 This is a list of all the updates made to our budgeting program.
 
 ---
+## October 1 2026
+- Continued revision of the README and the Flowchart.
+---
+
 ## September 30 2026
 - Revision of CHANGELOG realistically to reflect the date of completion and when there is no app developed.
 - Revision of README file to match the project proposal.
