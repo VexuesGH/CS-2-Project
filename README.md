@@ -53,10 +53,15 @@ Remaining Balance: 370
 Choose an option: 4
 
 === Budget Summary ===
+
 Weekly Allowance: 500
+
 Lunch: 80
+
 School Supplies: 50
+
 Total Spent: 130
+
 Remaining Balance: 370
 
 Choose an option: 5
