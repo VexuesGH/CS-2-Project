@@ -3,7 +3,7 @@
 ## Project Description
 This is a simple Python code that helps students manage and track their weekly allowance. It was created to provide an easy way for students to record their expenses, check their remaining balance, and keep track of their spending.
 ## Features
-- Record weekly allowance
+- Record allowance
 - Add new expenses
 - View all expenses
 - Check remaining balance
@@ -20,7 +20,7 @@ This is a simple Python code that helps students manage and track their weekly a
 ## Example Output
 === PocketBudget ===
 
-1. Add Weekly Allowance
+1. Deposit Money
 2. Add Expense
 3. Check Balance
 4. View Budget
@@ -28,9 +28,9 @@ This is a simple Python code that helps students manage and track their weekly a
 
 Choose an option: 1
 
-Enter your weekly allowance: 500
+Enter amount: 500
 
-Allowance added successfully!
+Deposited successfully!
 
 Choose an option: 2
 
@@ -54,7 +54,7 @@ Choose an option: 4
 
 === Budget Summary ===
 
-Weekly Allowance: 500
+Deposited this week: 500
 
 Lunch: 80
 
@@ -70,6 +70,6 @@ Thank you for using PocketBudget!
 
 ## Contributors
 - Student 1: dcaguirre (README)
-- Student 2: krhilario (Project Proposal)
+- Student 2: krhilario (README, Project_Proposal)
 - Student 3: pzremojo (CHANGELOG, README)
 
