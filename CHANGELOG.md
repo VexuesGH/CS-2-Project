@@ -3,8 +3,14 @@
 This is a list of all the updates made to our budgeting program.
 
 ---
+## October 5 2026
+- fixed issues in the proposal and the changelog.
+---
+
 ## October 3 2026
 - Updated README to clarify features and example output.
+---
+
 ## October 2 2026
 - Completed revision of the README and the Flowchart.
 ---
@@ -40,11 +46,3 @@ This is a list of all the updates made to our budgeting program.
 ## August 28 2026
 - Added README file.
 - Added CHANGELOG.
-
----
-
-## Version v1.0.0
-- First version of the program.
-- User can:
-  - create tasks.
-  - view tasks.
